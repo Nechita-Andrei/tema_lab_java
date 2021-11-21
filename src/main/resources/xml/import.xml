@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks xmlns="unibuc.ro">
+  <task id="b8c2855b-f860-4217-a6e9-158a82e32baf">
+    <severity>NORMAL</severity>
+    <description>zy</description>
+    <title>one</title>
+    <assignedTo>Ioan</assignedTo>
+    <status>CLOSED</status>
+  </task>
+  <task id="f50f6320-af6d-4a18-866f-c04173fa5fdd">
+    <severity>NORMAL</severity>
+    <description>zy</description>
+    <title>three</title>
+    <assignedTo>Ioan</assignedTo>
+    <status>CLOSED</status>
+  </task>
+  <task id="bd0ab299-2346-4c4c-975c-a64da2990860">
+    <severity>HIGH</severity>
+    <description>text2</description>
+    <title>MyTitle2</title>
+    <assignedTo>Ion</assignedTo>
+    <status>OPEN</status>
+  </task>
+  <task id="e61cb80c-4b33-455b-abc6-792aabd71eeb">
+    <severity>NORMAL</severity>
+    <description>zy</description>
+    <title>two</title>
+    <assignedTo>Ioan</assignedTo>
+    <status>CLOSED</status>
+  </task>
+  <task id="49982075-2647-4515-9070-9681afd732bf">
+    <severity>NORMAL</severity>
+    <description>zy</description>
+    <title>MyTitle4</title>
+    <assignedTo>Ioan</assignedTo>
+    <status>CLOSED</status>
+  </task>
+  <task id="3a66c565-3a78-4ede-b4aa-ccc57dc4d343">
+    <severity>LOW</severity>
+    <description>abc</description>
+    <title>MyTitle3</title>
+    <assignedTo>Vasile</assignedTo>
+    <status>CLOSED</status>
+  </task>
+</tasks>
